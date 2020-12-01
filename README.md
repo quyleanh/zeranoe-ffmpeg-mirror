@@ -1,7 +1,10 @@
 # zeranoe-ffmpeg-mirror
 Mirror of Zeranoe's ffmpeg build from ffmpeg.zeranoe.com
 
-`sha256sum` check result
+### Download
+Go to [Releases](https://github.com/quyleanh/zeranoe-ffmpeg-mirror/releases) to download
+
+### `sha256sum` check result
 ```
 ffmpeg-4.3.1-win32-shared
 357af9901a456f4dcbacd107e83a934d344c9cb07ddad8aaf80612eeab7d26d2
