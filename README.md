@@ -1,5 +1,8 @@
 # zeranoe-ffmpeg-mirror
-Mirror of Zeranoe's ffmpeg build from ffmpeg.zeranoe.com
+Mirror of Zeranoe's ffmpeg build from `ffmpeg.zeranoe.com`
+
+When building [scrcpy](https://github.com/Genymobile/scrcpy) from Linux environment [for Windows](https://github.com/Genymobile/scrcpy/blob/master/BUILD.md), it's required `ffmpeg` dependencies. However `ffmpeg.zeranoe.com` site is down according to this [issue](https://github.com/Genymobile/scrcpy/issues/1753). 
+This repo is mirrored for the latest build from `ffmpeg.zeranoe.com`.
 
 ### Download
 Go to [Releases](https://github.com/quyleanh/zeranoe-ffmpeg-mirror/releases) to download
